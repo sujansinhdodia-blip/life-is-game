@@ -110,7 +110,7 @@ export default function Proposal({ onYes }: ProposalProps) {
             </motion.div>
 
             {/* Proposal line */}
-            <p
+            <h2
               style={{
                 fontFamily: '"Cormorant Garamond", Georgia, serif',
                 fontSize: "clamp(1.3rem, 3.5vw, 2rem)",
@@ -122,7 +122,7 @@ export default function Proposal({ onYes }: ProposalProps) {
               }}
             >
               {CONFIG.proposalLine}
-            </p>
+            </h2>
 
             {/* Buttons — equal dignity, both always reachable */}
             <div

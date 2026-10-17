@@ -57,14 +57,15 @@ export default function Hero() {
         }}
       />
 
-      {/* Script accent */}
-      <motion.p
+      {/* Script accent / Main H1 */}
+      <motion.h1
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 0.7, y: 0 }}
         transition={{ duration: 1, delay: 0.3 }}
         style={{
           fontFamily: '"Great Vibes", cursive',
           fontSize: "clamp(1.6rem, 4vw, 2.4rem)",
+          fontWeight: 400,
           color: "#c9826a",
           marginBottom: "2.5rem",
           textAlign: "center",
@@ -73,7 +74,7 @@ export default function Hero() {
         }}
       >
         A letter from my heart
-      </motion.p>
+      </motion.h1>
 
       {/* Typewriter text */}
       <motion.div

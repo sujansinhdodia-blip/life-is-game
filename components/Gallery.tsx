@@ -34,17 +34,18 @@ export default function Gallery({ images }: GalleryProps) {
       >
         {/* Section header */}
         <div style={{ textAlign: "center", marginBottom: "3.5rem" }}>
-          <p
+          <h2
             style={{
               fontFamily: '"Great Vibes", cursive',
               fontSize: "clamp(2rem, 5vw, 3rem)",
+              fontWeight: 400,
               color: "#c9826a",
               textShadow: "0 0 20px rgba(201,130,106,0.4)",
               marginBottom: "0.5rem",
             }}
           >
             Our Memories
-          </p>
+          </h2>
           <p
             style={{
               fontFamily: '"Poppins", sans-serif',

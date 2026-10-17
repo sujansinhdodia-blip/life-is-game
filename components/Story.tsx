@@ -155,17 +155,18 @@ export default function Story({ images }: StoryProps) {
     >
       {/* Section label */}
       <div style={{ textAlign: "center", marginBottom: "4rem" }}>
-        <p
+        <h2
           style={{
             fontFamily: '"Great Vibes", cursive',
             fontSize: "clamp(2rem, 5vw, 3rem)",
+            fontWeight: 400,
             color: "#c9826a",
             textShadow: "0 0 20px rgba(201,130,106,0.4)",
             marginBottom: "0.5rem",
           }}
         >
           Our Story
-        </p>
+        </h2>
         <p
           style={{
             fontFamily: '"Poppins", sans-serif',

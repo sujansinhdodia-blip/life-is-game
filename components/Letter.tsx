@@ -39,16 +39,17 @@ export default function Letter() {
         transition={{ duration: 0.8 }}
         style={{ textAlign: "center", marginBottom: "3rem" }}
       >
-        <p
+        <h2
           style={{
             fontFamily: '"Great Vibes", cursive',
             fontSize: "clamp(2rem, 5vw, 3rem)",
+            fontWeight: 400,
             color: "#c9826a",
             textShadow: "0 0 20px rgba(201,130,106,0.4)",
           }}
         >
           My Letter to You
-        </p>
+        </h2>
       </motion.div>
 
       {/* Parchment card */}

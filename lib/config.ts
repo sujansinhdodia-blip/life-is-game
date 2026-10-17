@@ -9,7 +9,7 @@ export const CONFIG = {
   herName: "Gautami",
 
   /** Replace with your real name */
-  myName: "[My Name]",
+  myName: "Sujan",
 
   // ── HERO TYPEWRITER LINES ──────────────────────────────────
   heroLines: [
@@ -51,7 +51,7 @@ But if one day your heart feels even a little open, I'll be here, with gentler h
 Whatever you choose, I just needed you to know this: you were loved, truly and deeply, and you deserved to be loved better.
 
 Forever yours in hope,
-[My Name]`,
+Sujan`,
 
   // ── WHY I LOVE YOU CARDS ──────────────────────────────────
   whyCards: [
