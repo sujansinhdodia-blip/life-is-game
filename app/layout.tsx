@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://life-is-game.vercel.app"),
+  metadataBase: new URL("https://proposal-site-beige.vercel.app"),
   title: {
     default: "A Message For Gautami | From Sujan",
     template: "%s | Sujan & Gautami",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     title: "A Message For Gautami | From Sujan",
     description:
       "A heartfelt letter, cherished memories, and an honest question from the heart.",
-    url: "https://life-is-game.vercel.app",
+    url: "https://proposal-site-beige.vercel.app",
     siteName: "A Message For Gautami",
     locale: "en_US",
     type: "website",
@@ -73,7 +73,7 @@ const jsonLd = {
   "@context": "https://schema.org",
   "@type": "WebSite",
   name: "A Message For Gautami",
-  url: "https://life-is-game.vercel.app",
+  url: "https://proposal-site-beige.vercel.app",
   description:
     "A heartfelt letter, cherished memories, and an honest question from the heart for Gautami, built with love by Sujan.",
   inLanguage: "en-US",

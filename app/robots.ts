@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://life-is-game.vercel.app/sitemap.xml",
+    sitemap: "https://proposal-site-beige.vercel.app/sitemap.xml",
   };
 }

@@ -2,13 +2,13 @@
 
 > A deeply heartfelt, interactive proposal and love letter website built with Next.js, React, Framer Motion, and Tailwind CSS.
 
-[![Live Website](https://img.shields.io/badge/Live%20Demo-life--is--game.vercel.app-ff69b4?style=for-the-badge&logo=vercel)](https://life-is-game.vercel.app)
+[![Live Website](https://img.shields.io/badge/Live%20Demo-life--is--game.vercel.app-ff69b4?style=for-the-badge&logo=vercel)](https://proposal-site-beige.vercel.app)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsujansinhdodia-blip%2Flife-is-game)
 
 ---
 
 ## 🌐 Live Deployed URL
-- **Production URL**: [https://life-is-game.vercel.app](https://life-is-game.vercel.app)
+- **Production URL**: [https://proposal-site-beige.vercel.app](https://proposal-site-beige.vercel.app)
 - **GitHub Repository**: [https://github.com/sujansinhdodia-blip/life-is-game](https://github.com/sujansinhdodia-blip/life-is-game)
 
 ---
